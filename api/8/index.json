@@ -1,12 +1,12 @@
 {
-    "name": "Chenandink 4 of Clubs #1 of 1",
+    "name": "Chenandink 7 of Clubs #1 of 1",
     "description": "Single edition digital playing card deck created by Filipino artist, Chen Naje, also known as @chenandink on Instagram.",
-    "external_url": "https://ownlyio.github.io/nft/chenandink/",
-    "image": "https://ownlyio.github.io/nft/assets/4clubs.png",
+    "external_url": "https://ownlyio.github.io/nft/chenandink/7clubs.html",
+    "image": "https://ownlyio.github.io/nft/assets/7clubs.png",
     "attributes": [
         {
             "trait_type": "Card",
-            "value": "4 of Clubs"
+            "value": "7 of Clubs"
         }, 
         {
             "trait_type": "Artist",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "Rank",
-            "value": "4"
+            "value": "7"
         },
         {
             "trait_type": "Suit",

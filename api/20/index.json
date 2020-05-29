@@ -1,12 +1,12 @@
 {
-    "name": "Chenandink 3 of Diamonds #1 of 1",
+    "name": "Chenandink 8 of Diamonds #1 of 1",
     "description": "Single edition digital playing card deck created by Filipino artist, Chen Naje, also known as @chenandink on Instagram.",
-    "external_url": "https://ownlyio.github.io/nft/chenandink/",
-    "image": "https://ownlyio.github.io/nft/assets/3diamonds.png",
+    "external_url": "https://ownlyio.github.io/nft/chenandink/8diamonds.html",
+    "image": "https://ownlyio.github.io/nft/assets/8diamonds.png",
     "attributes": [
         {
             "trait_type": "Card",
-            "value": "3 of Diamonds"
+            "value": "8 of Diamonds"
         }, 
         {
             "trait_type": "Artist",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "Rank",
-            "value": "3"
+            "value": "8"
         },
         {
             "trait_type": "Suit",

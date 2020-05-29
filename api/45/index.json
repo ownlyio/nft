@@ -1,12 +1,12 @@
 {
-    "name": "Chenandink 2 of Spades #1 of 1",
+    "name": "Chenandink 9 of Spades #1 of 1",
     "description": "Single edition digital playing card deck created by Filipino artist, Chen Naje, also known as @chenandink on Instagram.",
-    "external_url": "https://ownlyio.github.io/nft/chenandink/",
-    "image": "https://ownlyio.github.io/nft/assets/2spades.png",
+    "external_url": "https://ownlyio.github.io/nft/chenandink/9spades.html",
+    "image": "https://ownlyio.github.io/nft/assets/9spades.png",
     "attributes": [
         {
             "trait_type": "Card",
-            "value": "2 of Spades"
+            "value": "9 of Spades"
         }, 
         {
             "trait_type": "Artist",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "Rank",
-            "value": "2"
+            "value": "9"
         },
         {
             "trait_type": "Suit",
