@@ -1,12 +1,12 @@
 {
-    "name": "Chenandink Jack of Clubs #1 of 1",
+    "name": "Chenandink King of Clubs #1 of 1",
     "description": "Single edition digital playing card deck created by Filipino artist, Chen Naje, also known as @chenandink on Instagram.",
-    "external_url": "https://ownlyio.github.io/nft/chenandink/jackclubs.html",
-    "image": "https://ownlyio.github.io/nft/assets/jackclubs.png",
+    "external_url": "https://ownlyio.github.io/nft/chenandink/kingclubs.html",
+    "image": "https://ownlyio.github.io/nft/assets/kingclubs.png",
     "attributes": [
         {
             "trait_type": "Card",
-            "value": "Jack of Clubs"
+            "value": "King of Clubs"
         }, 
         {
             "trait_type": "Artist",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "Rank",
-            "value": "Jack"
+            "value": "King"
         },
         {
             "trait_type": "Suit",

@@ -1,12 +1,12 @@
 {
-    "name": "Chenandink King of Hearts #1 of 1",
+    "name": "Chenandink Jack of Hearts #1 of 1",
     "description": "Single edition digital playing card deck created by Filipino artist, Chen Naje, also known as @chenandink on Instagram.",
-    "external_url": "https://ownlyio.github.io/nft/chenandink/kinghearts.html",
-    "image": "https://ownlyio.github.io/nft/assets/kinghearts.png",
+    "external_url": "https://ownlyio.github.io/nft/chenandink/jackhearts.html",
+    "image": "https://ownlyio.github.io/nft/assets/jackhearts.png",
     "attributes": [
         {
             "trait_type": "Card",
-            "value": "King of Hearts"
+            "value": "Jack of Hearts"
         }, 
         {
             "trait_type": "Artist",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "Rank",
-            "value": "King"
+            "value": "Jack"
         },
         {
             "trait_type": "Suit",
