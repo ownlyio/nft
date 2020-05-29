@@ -1,0 +1,52 @@
+{
+    "name": "6 of Diamonds",
+    "description": "CryptoSolitaire deck created by Filipino artist, Chen Naje, also known as @chenandink on Instagram.",
+    "external_url": "https://ownlyio.github.io/nft/chenandink/",
+    "image": "https://ownlyio.github.io/nft/assets/6diamonds.png",
+    "attributes": [
+        {
+            "trait_type": "Card",
+            "value": "6 of Diamonds"
+        }, 
+        {
+            "trait_type": "Artist",
+            "value": "Chen Naje"
+        }, 
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        }, 
+        {
+            "trait_type": "Instagram",
+            "value": "https://www.instagram.com/chenandink/"
+        },
+        {
+            "trait_type": "Website",
+            "value": "https://www.chenandink.com"
+        },
+        {
+            "trait_type": "Project",
+            "value": "CryptoSolitaire"
+        }
+        {
+            "trait_type": "Theme",
+            "value": "Animals"
+        {
+        {
+            "trait_type": "Type",
+            "value": "Playing Card Deck"
+        {
+        {
+            "trait_type": "Playable",
+            "value": "Yes"
+        {
+        {
+            "trait_type": "Rank",
+            "value": "6"
+        {
+        {
+            "trait_type": "Suit",
+            "value": "Diamonds"
+        {
+    ]
+}
