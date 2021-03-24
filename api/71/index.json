@@ -1,0 +1,48 @@
+{
+    "name": "Mermain #1 of 1",
+    "description": "Mermain is a creature born in the depths of the sea. While roaming around the ocean floor one day, he discovered a capsized submarine filled with people who are barely alive due to being stuck underwater for more than a week with not enough food. When they saw him, instead of being afraid, they treated him as a friend. He tried to meet them up close and personal by opening the submarine door.",
+    "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_3.html",
+    "image": "https://ownlyio.github.io/nft/assets/Lei_3.png",
+    "attributes": [
+        {
+            "trait_type": "Card",
+            "value": "Doodle Art #3"
+        }, 
+        {
+            "trait_type": "Artist",
+            "value": "Lei Melendres"
+        }, 
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        }, 
+        {
+            "trait_type": "Instagram",
+            "value": "@leimelendres"
+        },
+        {
+            "trait_type": "Twitter",
+            "value": "@LeiMelendres"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@leimelendresdoodles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        }, 
+        {
+            "trait_type": "Theme",
+            "value": "Doodle Art"
+        },
+        {
+            "trait_type": "Tools Used",
+            "value": "Clip Studio Art & Photoshop"
+        },
+        {
+            "trait_type": "Collectible",
+            "value": "Yes"
+        }
+    ]
+}

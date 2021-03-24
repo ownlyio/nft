@@ -1,0 +1,48 @@
+{
+    "name": "Boxhead #1 of 1",
+    "description": "All Boxheads are born with a soft glowing skull. Nobody knows why the creator thought that was a good idea, tho. At an early age, they are taught to create clay pots and bricks and when they reach adulthood, they would build a cube shaped oven-like brick structure which they would use as a helmet for their skull to protect it from being accidentally squished.",
+    "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_11.html",
+    "image": "https://ownlyio.github.io/nft/assets/Lei_11.png",
+    "attributes": [
+        {
+            "trait_type": "Card",
+            "value": "Doodle Art #11"
+        }, 
+        {
+            "trait_type": "Artist",
+            "value": "Lei Melendres"
+        }, 
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        }, 
+        {
+            "trait_type": "Instagram",
+            "value": "@leimelendres"
+        },
+        {
+            "trait_type": "Twitter",
+            "value": "@LeiMelendres"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@leimelendresdoodles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        }, 
+        {
+            "trait_type": "Theme",
+            "value": "Doodle Art"
+        },
+        {
+            "trait_type": "Tools Used",
+            "value": "Clip Studio Art & Photoshop"
+        },
+        {
+            "trait_type": "Collectible",
+            "value": "Yes"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Bowbun #1 of 1",
+    "description": "Bowbun thinks bowties are cool for one reason. Because he once saw a logo of a rabbit with a bowtie from his father's collection of magazines. He was too young to understand what it was even after reading all the magazines but the idea stayed with him years after that tragic moment. Come to think of it, he saw nothing wrong with other animals not wearing any clothes anyway.",
+    "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_10.html",
+    "image": "https://ownlyio.github.io/nft/assets/Lei_10.png",
+    "attributes": [
+        {
+            "trait_type": "Card",
+            "value": "Doodle Art #10"
+        }, 
+        {
+            "trait_type": "Artist",
+            "value": "Lei Melendres"
+        }, 
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        }, 
+        {
+            "trait_type": "Instagram",
+            "value": "@leimelendres"
+        },
+        {
+            "trait_type": "Twitter",
+            "value": "@LeiMelendres"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@leimelendresdoodles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        }, 
+        {
+            "trait_type": "Theme",
+            "value": "Doodle Art"
+        },
+        {
+            "trait_type": "Tools Used",
+            "value": "Clip Studio Art & Photoshop"
+        },
+        {
+            "trait_type": "Collectible",
+            "value": "Yes"
+        }
+    ]
+}

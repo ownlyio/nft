@@ -1,0 +1,48 @@
+{
+    "name": "Bushy #1 of 1",
+    "description": "Bushy is the quiet and well-mannered member of the group. Nobody knows what Bushy is thinking cause Bushy never talks. Bushy enjoys writing in the third person tho. Bushy is the coolest nonetheless.",
+    "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_19.html",
+    "image": "https://ownlyio.github.io/nft/assets/Lei_19.png",
+    "attributes": [
+        {
+            "trait_type": "Card",
+            "value": "Doodle Art #19"
+        }, 
+        {
+            "trait_type": "Artist",
+            "value": "Lei Melendres"
+        }, 
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        }, 
+        {
+            "trait_type": "Instagram",
+            "value": "@leimelendres"
+        },
+        {
+            "trait_type": "Twitter",
+            "value": "@LeiMelendres"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@leimelendresdoodles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        }, 
+        {
+            "trait_type": "Theme",
+            "value": "Doodle Art"
+        },
+        {
+            "trait_type": "Tools Used",
+            "value": "Clip Studio Art & Photoshop"
+        },
+        {
+            "trait_type": "Collectible",
+            "value": "Yes"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Exo #1 of 1",
+    "description": "Exo is an entity made out of pure radioactive nuclear energy. She didn't use to have a physical body but after being able to warp herself through different worlds, she learned ways on how she could manipulate the energy and build herself a body. Her head on the other hand is too difficult to convert so she just made a forcefield to contain the energy and keep it intact.",
+    "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_14.html",
+    "image": "https://ownlyio.github.io/nft/assets/Lei_14.png",
+    "attributes": [
+        {
+            "trait_type": "Card",
+            "value": "Doodle Art #14"
+        }, 
+        {
+            "trait_type": "Artist",
+            "value": "Lei Melendres"
+        }, 
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        }, 
+        {
+            "trait_type": "Instagram",
+            "value": "@leimelendres"
+        },
+        {
+            "trait_type": "Twitter",
+            "value": "@LeiMelendres"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@leimelendresdoodles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        }, 
+        {
+            "trait_type": "Theme",
+            "value": "Doodle Art"
+        },
+        {
+            "trait_type": "Tools Used",
+            "value": "Clip Studio Art & Photoshop"
+        },
+        {
+            "trait_type": "Collectible",
+            "value": "Yes"
+        }
+    ]
+}
