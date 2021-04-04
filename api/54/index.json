@@ -1,5 +1,5 @@
 {
-    "name": "TBear #1 of 1",
+    "name": "Lei Melendres TBear #1 of 1",
     "description": "TBear is the most peaceful among all. She enjoys just chilling in the garden reading her favorite books or binge-watching her favorite tv series. She likes to hangout with her friends during the weekend especially when they up for a spa day.",
     "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_20.html",
     "image": "https://ownlyio.github.io/nft/assets/Lei_20.png",
@@ -43,6 +43,10 @@
         {
             "trait_type": "Collectible",
             "value": "Yes"
+        },
+          {
+            "trait_type": "Rarity",
+            "value": "Common"
         }
     ]
 }
