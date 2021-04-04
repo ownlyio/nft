@@ -1,5 +1,5 @@
 {
-    "name": "Beaks #1 of 1",
+    "name": "Lei Melendres Beaks #1 of 1",
     "description": "Beaks hated being called twitter bird and would attack anyone with its razor sharp claw if ever anyone even mentions the word tweet. Beaks is a crazy ass bird.",
     "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_18.html",
     "image": "https://ownlyio.github.io/nft/assets/Lei_18.png",
@@ -43,6 +43,10 @@
         {
             "trait_type": "Collectible",
             "value": "Yes"
+        },
+          {
+            "trait_type": "Rarity",
+            "value": "Common"
         }
     ]
 }
