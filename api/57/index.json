@@ -1,5 +1,5 @@
 {
-    "name": "Fluff #1 of 1",
+    "name": "Lei Melendres Fluff #1 of 1",
     "description": "Fluff happens to be the friendliest among the group. Some of his friends tend to worry because Fluff doesnt know the difference between a friend or a foe. He treats everyone with unconditional love and kindness. Fluff is s good friend but Fluff pretty is dumb and I think you knoe that already.",
     "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_17.html",
     "image": "https://ownlyio.github.io/nft/assets/Lei_17.png",
@@ -43,6 +43,10 @@
         {
             "trait_type": "Collectible",
             "value": "Yes"
+        },
+          {
+            "trait_type": "Rarity",
+            "value": "Common"
         }
     ]
 }
