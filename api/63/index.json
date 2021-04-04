@@ -1,5 +1,5 @@
 {
-    "name": "Boxhead #1 of 1",
+    "name": "Lei Melendres Boxhead #1 of 1",
     "description": "All Boxheads are born with a soft glowing skull. Nobody knows why the creator thought that was a good idea, tho. At an early age, they are taught to create clay pots and bricks and when they reach adulthood, they would build a cube shaped oven-like brick structure which they would use as a helmet for their skull to protect it from being accidentally squished.",
     "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_11.html",
     "image": "https://ownlyio.github.io/nft/assets/Lei_11.png",
@@ -43,6 +43,10 @@
         {
             "trait_type": "Collectible",
             "value": "Yes"
+        },
+          {
+            "trait_type": "Rarity",
+            "value": "Common"
         }
     ]
 }
