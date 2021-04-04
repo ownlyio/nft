@@ -1,5 +1,5 @@
 {
-    "name": "Eyesore #1 of 1",
+    "name": "Lei Melendres Eyesore #1 of 1",
     "description": "Eyesore loves collecting eyeballs from carcasses that are thrown in the ocean. It's the weirdest hobby of all time but he takes pride in being very good at it. He is also truly passionate with what he does and since there's only a limited amount he can collect, he tends to become very picky with what eyeballs to include in his collection. The other characters hate hanging out with him cause he makes them feel weird when he looks at them but this is actually beneficial for him because he would rather spend the whole day searching for the next eyeball.",
     "external_url": "https://ownlyio.github.io/nft/leimelendres/Lei_6.html",
     "image": "https://ownlyio.github.io/nft/assets/Lei_6.png",
@@ -43,6 +43,10 @@
         {
             "trait_type": "Collectible",
             "value": "Yes"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
         }
     ]
 }
