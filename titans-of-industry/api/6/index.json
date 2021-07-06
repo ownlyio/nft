@@ -1,0 +1,52 @@
+{
+    "name": "Michael Saylor",
+    "description": "Michael Saylor",
+    "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ9X1AxPgeHiZWc13AEBfM85iHHtGkSsNGmuQrk2JPt8e",
+    "attributes": [
+        {
+            "trait_type": "Card",
+            "value": "Card Back"
+        }, 
+        {
+            "trait_type": "Artist",
+            "value": "Eugene Oligo"
+        }, 
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        }, 
+        {
+            "trait_type": "Instagram",
+            "value": "@eugene_dlcrx"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        }, 
+        {
+            "trait_type": "Theme",
+            "value": "Animals"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Playing Card Deck"
+        },
+        {
+            "trait_type": "Tool Used",
+            "value": "Procreate"
+        },
+        {
+            "trait_type": "Playable",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Rank",
+            "value": "None"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "None"
+        }
+    ]
+}
