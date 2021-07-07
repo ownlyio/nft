@@ -3,6 +3,7 @@
     "description": "Michael Saylor",
     "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
     "image": "https://gateway.pinata.cloud/ipfs/QmQ9X1AxPgeHiZWc13AEBfM85iHHtGkSsNGmuQrk2JPt8e",
+    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/6/thumbnail.webp",
     "attributes": [
         {
             "trait_type": "Card",

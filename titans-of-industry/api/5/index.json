@@ -3,6 +3,7 @@
     "description": "Jack Dorsey",
     "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
     "image": "https://gateway.pinata.cloud/ipfs/QmfJKM93bTQGckfY9mD4deeBFLDSaUCtGmKJz3HKd4LMfv",
+    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/5/thumbnail.webp",
     "attributes": [
         {
             "trait_type": "Card",

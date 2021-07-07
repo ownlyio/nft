@@ -3,6 +3,7 @@
     "description": "Tim Draper",
     "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
     "image": "https://gateway.pinata.cloud/ipfs/QmXXXFcCbdrNS9tyZbB5mGP6yMTu2iaq46dNqFaBKWvZdY",
+    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/8/thumbnail.webp",
     "attributes": [
         {
             "trait_type": "Card",

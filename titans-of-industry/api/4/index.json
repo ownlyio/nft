@@ -3,6 +3,7 @@
     "description": "Elon Musk",
     "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
     "image": "https://gateway.pinata.cloud/ipfs/QmcZvTPde3yh2t4M4WnL5sBLpoygT47GQRKh8LPw9KJYtK",
+    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/4/thumbnail.webp",
     "attributes": [
         {
             "trait_type": "Card",

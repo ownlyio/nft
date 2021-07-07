@@ -3,6 +3,7 @@
     "description": "Brian Armstrong",
     "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
     "image": "https://gateway.pinata.cloud/ipfs/QmUG1J4RY6coB6Vrd1Ud7Lwxxu8SnQJcsV6hr4LjKG4VND",
+    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/1/thumbnail.webp",
     "attributes": [
         {
             "trait_type": "Card",

@@ -3,6 +3,7 @@
     "description": "Sam Bankman-Fried",
     "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
     "image": "https://gateway.pinata.cloud/ipfs/QmVb9kZWG148er4TYxozBVGSZPyiWK22TH6oPPA2tiXamV",
+    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/7/thumbnail.webp",
     "attributes": [
         {
             "trait_type": "Card",
