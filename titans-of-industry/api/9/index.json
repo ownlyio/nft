@@ -1,14 +1,10 @@
 {
-    "name": "Tyler Winklevoss",
-    "description": "Tyler Winklevoss",
+    "name": "SYNERGISTIC FORCE",
+    "description": "Tyler Winklevoss, who we’d like to call the Synergistic Force, is the CEO of the crypto wallet company Gemini. Together with his twin brother, he invested in multiple digital startups. Now he is known as one of the Bitcoin Billionaires. Surely a force to be reckoned with.",
     "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
-    "image": "https://gateway.pinata.cloud/ipfs/QmeUeu1qQjjGj6vkLm5aynGhNUAcZ9Gg1aY7hTfKafgykx",
+    "image": "ipfs://QmeUeu1qQjjGj6vkLm5aynGhNUAcZ9Gg1aY7hTfKafgykx",
     "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/9/thumbnail.webp",
     "attributes": [
-        {
-            "trait_type": "Card",
-            "value": "Card Back"
-        }, 
         {
             "trait_type": "Artist",
             "value": "Eugene Oligo"
@@ -24,30 +20,10 @@
         {
             "trait_type": "Country",
             "value": "Philippines"
-        }, 
-        {
-            "trait_type": "Theme",
-            "value": "Animals"
         },
         {
-            "trait_type": "Type",
-            "value": "Playing Card Deck"
-        },
-        {
-            "trait_type": "Tool Used",
-            "value": "Procreate"
-        },
-        {
-            "trait_type": "Playable",
-            "value": "Yes"
-        },
-        {
-            "trait_type": "Rank",
-            "value": "None"
-        },
-        {
-            "trait_type": "Suit",
-            "value": "None"
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
         }
     ]
 }

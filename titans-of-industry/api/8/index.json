@@ -1,14 +1,10 @@
 {
-    "name": "Tim Draper",
-    "description": "Tim Draper",
+    "name": "THE TRUE BELIEVER",
+    "description": "Tim Draper, the founding partner of venture capital firm Draper Fisher Jurvetson, is one of the few who believed in the power of Bitcoin from the very beginning. Although he already has hundreds of VC investments in companies including Theranos and Tesla, he still made investments in Bitcoin back in 2014 when each coin was just worth $632. Now, he clearly reaps the reward of his faith in cryptocurrency when Bitcoin reached more than $30,000 each.",
     "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
-    "image": "https://gateway.pinata.cloud/ipfs/QmXXXFcCbdrNS9tyZbB5mGP6yMTu2iaq46dNqFaBKWvZdY",
+    "image": "ipfs://QmXXXFcCbdrNS9tyZbB5mGP6yMTu2iaq46dNqFaBKWvZdY",
     "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/8/thumbnail.webp",
     "attributes": [
-        {
-            "trait_type": "Card",
-            "value": "Card Back"
-        }, 
         {
             "trait_type": "Artist",
             "value": "Eugene Oligo"
@@ -24,30 +20,10 @@
         {
             "trait_type": "Country",
             "value": "Philippines"
-        }, 
-        {
-            "trait_type": "Theme",
-            "value": "Animals"
         },
         {
-            "trait_type": "Type",
-            "value": "Playing Card Deck"
-        },
-        {
-            "trait_type": "Tool Used",
-            "value": "Procreate"
-        },
-        {
-            "trait_type": "Playable",
-            "value": "Yes"
-        },
-        {
-            "trait_type": "Rank",
-            "value": "None"
-        },
-        {
-            "trait_type": "Suit",
-            "value": "None"
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
         }
     ]
 }

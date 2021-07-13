@@ -1,14 +1,10 @@
 {
-    "name": "Brian Armstrong",
-    "description": "Brian Armstrong",
+    "name": "THE NEW BREAKOUT MONSTER",
+    "description": "This titan is inspired by the person who made Coinbase happen — Brian Armstrong. With the largest cryptocurrency exchange in the United States in his hand, this businessman is not the person you should mess with. This software engineer turned CEO is just getting started, so you better watch out for the next big thing that he will do.",
     "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
-    "image": "https://gateway.pinata.cloud/ipfs/QmUG1J4RY6coB6Vrd1Ud7Lwxxu8SnQJcsV6hr4LjKG4VND",
+    "image": "ipfs://QmUG1J4RY6coB6Vrd1Ud7Lwxxu8SnQJcsV6hr4LjKG4VND",
     "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/1/thumbnail.webp",
     "attributes": [
-        {
-            "trait_type": "Card",
-            "value": "Card Back"
-        }, 
         {
             "trait_type": "Artist",
             "value": "Eugene Oligo"
@@ -24,30 +20,10 @@
         {
             "trait_type": "Country",
             "value": "Philippines"
-        }, 
-        {
-            "trait_type": "Theme",
-            "value": "Animals"
         },
         {
-            "trait_type": "Type",
-            "value": "Playing Card Deck"
-        },
-        {
-            "trait_type": "Tool Used",
-            "value": "Procreate"
-        },
-        {
-            "trait_type": "Playable",
-            "value": "Yes"
-        },
-        {
-            "trait_type": "Rank",
-            "value": "None"
-        },
-        {
-            "trait_type": "Suit",
-            "value": "None"
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
         }
     ]
 }
