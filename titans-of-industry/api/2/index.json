@@ -1,0 +1,29 @@
+{
+    "name": "AUGMENTED CATALYST",
+    "description": "Cameron Winklevoss is the president of a cryptocurrency wallet company called Gemini that he co-founded with his twin, Tyler. He and his brother each have a net worth of at least $1.6 million. They are both in the top 10 billionaires who utilized Bitcoin to its full potential.",
+    "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
+    "image": "https://ipfs.io/ipfs/QmPsvXaAPMMiEEKKSGvgzNU4RxX9opPmx3pWXn3dkVN6EA",
+    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/2/thumbnail.webp",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Eugene Oligo"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@eugene_dlcrx"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
+        }
+    ]
+}
