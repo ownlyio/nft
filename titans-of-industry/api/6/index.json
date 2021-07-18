@@ -1,9 +1,9 @@
 {
     "name": "THE BITCOIN IMMORTAL",
     "description": "Michael Saylor, the CEO of software firm MicroStrategy, knows how to take the right risks at the right time. Imagine using your own company’s cash to buy Bitcoin. Yes, he did that! He borrowed $650 million cash from MicroStrategy to buy 70,784 Bitcoins for $1.1 billion that is now worth $2.5 billion. That genius move drove the shares up more than 300%. If a man mastered the discipline of sacrifice and delayed gratification, surely it’s this Bitcoin Immortal.",
-    "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
-    "image": "https://ipfs.io/ipfs/QmQ9X1AxPgeHiZWc13AEBfM85iHHtGkSsNGmuQrk2JPt8e",
-    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/6/thumbnail.webp",
+    "external_url": "https://ownly.io/marketplace",
+    "asset": "https://ipfs.io/ipfs/QmQ9X1AxPgeHiZWc13AEBfM85iHHtGkSsNGmuQrk2JPt8e",
+    "image": "https://ownlyio.github.io/nft/titans-of-industry/api/6/image.png",
     "attributes": [
         {
             "trait_type": "Artist",

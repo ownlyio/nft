@@ -1,9 +1,9 @@
 {
     "name": "THE CRYPTOVERSE MASTER",
     "description": "Who doesn’t know Jack Dorsey? He created the world of tweets. He is the CEO and Co-Founder of Twitter himself — an amazing feat! He is also well-known for his philanthropic works. Now, this tattooed entrepreneur is in the works of creating a crypto wallet. This NFT portrays him as the titan and the cool person that he has always been.",
-    "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
-    "image": "https://ipfs.io/ipfs/QmfJKM93bTQGckfY9mD4deeBFLDSaUCtGmKJz3HKd4LMfv",
-    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/5/thumbnail.webp",
+    "external_url": "https://ownly.io/marketplace",
+    "asset": "https://ipfs.io/ipfs/QmfJKM93bTQGckfY9mD4deeBFLDSaUCtGmKJz3HKd4LMfv",
+    "image": "https://ownlyio.github.io/nft/titans-of-industry/api/5/image.png",
     "attributes": [
         {
             "trait_type": "Artist",

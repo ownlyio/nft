@@ -1,9 +1,9 @@
 {
     "name": "THE PROVOCATEUR WARLORD",
     "description": "This Titan is inspired by someone who has a broad vision of humanity’s future — the one and only Elon Musk. One of his aspirations is to establish a civilization on Mars, a vision turned into art in this NFT, with Elon being the king. Who remembers him swaying the crypto market with just his tweets before? With his resources and his sharp wit ready to be deployed, he really fits the title of provocateur warlord.",
-    "external_url": "https://ownlyio.github.io/nft/titans-of-industry/index.html",
-    "image": "https://ipfs.io/ipfs/QmcZvTPde3yh2t4M4WnL5sBLpoygT47GQRKh8LPw9KJYtK",
-    "thumbnail": "https://ownlyio.github.io/nft/titans-of-industry/api/4/thumbnail.webp",
+    "external_url": "https://ownly.io/marketplace",
+    "asset": "https://ipfs.io/ipfs/QmcZvTPde3yh2t4M4WnL5sBLpoygT47GQRKh8LPw9KJYtK",
+    "image": "https://ownlyio.github.io/nft/titans-of-industry/api/4/image.png",
     "attributes": [
         {
             "trait_type": "Artist",
