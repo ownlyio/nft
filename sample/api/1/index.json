@@ -1,0 +1,27 @@
+{
+    "name": "MY SAMPLE NFT",
+    "description": "This is the description of my sample NFT.",
+    "image": "https://ownly.io/nft/sample/api/1/sample.jpg",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "John Doe"
+        }, 
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        }, 
+        {
+            "trait_type": "Instagram",
+            "value": "@john_doe"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
+        }
+    ]
+}
