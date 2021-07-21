@@ -1,19 +1,15 @@
 {
     "name": "THE ELIXIR",
-    "description": "3D Ownly Token Giveaway",
+    "description": "Wooden 3D Ownly Token Giveaway",
     "image": "https://ipfs.io/ipfs/QmTeZn9NpE4QafMgfC5xMmvJQh97LktjaP8zns4yW6X1tT",
     "attributes": [
         {
-            "trait_type": "Artist",
-            "value": "Dan Vincent Barotilla"
+            "trait_type": "Reward Type",
+            "value": "Giveaway"
         },
         {
             "trait_type": "Year",
             "value": "2021"
-        },
-        {
-            "trait_type": "Instagram",
-            "value": "@mustache.boii"
         },
         {
             "trait_type": "Country",
@@ -21,7 +17,11 @@
         },
         {
             "trait_type": "Asset Type",
-            "value": "Digital Art"
+            "value": "3D"
+        },
+        {
+            "trait_type": "Rarity".
+            "value": "Common"
         }
     ]
 }
