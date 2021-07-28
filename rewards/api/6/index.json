@@ -1,0 +1,27 @@
+{
+    "name": "THE HIDDEN GEM",
+    "description": "3D Ownly TOken Giveaway",
+    "image": "https://ipfs.io/ipfs/QmTiBUb7Q5iLXR57icMBJTsoSaRdRBxKZP4BZCF6hRBuiC",
+    "attributes": [
+        {
+            "trait_type": "Reward Type",
+            "value": "Giveaway"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "3D"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Mythic"
+        }
+    ]
+}

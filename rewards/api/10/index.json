@@ -1,0 +1,27 @@
+{
+    "name": "THE INKVADYRZ 1.0",
+    "description": "The Inkvadyrz 1.0",
+    "image": "https://ipfs.io/ipfs/QmQUiv23gMRxKFtVHb9PWWJV3jxoeqGLQNqbwtyaoKEEuf",
+    "attributes": [
+        {
+            "trait_type": "Reward Type",
+            "value": "Giveaway"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "2D"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Mythic"
+        }
+    ]
+}

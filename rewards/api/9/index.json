@@ -1,0 +1,27 @@
+{
+    "name": "MUSTACHIO GOLDEN MUSTACHIO",
+    "description": "Golden Mustachio 3D Token Giveaway",
+    "image": "https://ipfs.io/ipfs/QmdEArQGvief998jikANWtzFncpMx8Jbcxyq9AXD4xJoQk",
+    "attributes": [
+        {
+            "trait_type": "Reward Type",
+            "value": "Giveaway"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "3D"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Mythic"
+        }
+    ]
+}

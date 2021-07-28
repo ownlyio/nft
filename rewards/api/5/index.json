@@ -1,0 +1,27 @@
+{
+    "name": "THE NECTAR",
+    "description": "3D Ownly TOken Giveaway",
+    "image": "https://ipfs.io/ipfs/QmTW19jXvme6rETXX6TU4otV448B3aQkrN9MdrmtRDJPmo",
+    "attributes": [
+        {
+            "trait_type": "Reward Type",
+            "value": "Giveaway"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "3D"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Mythic"
+        }
+    ]
+}
