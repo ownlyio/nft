@@ -1,0 +1,27 @@
+{
+    "name": "Genesis Block Token #5",
+    "description": "Genesis Block Token #5",
+    "image": "https://ownlyio.github.io/nft/genesis-block/api/5/image.jpg",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Marso"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@pxzmarso"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "2D"
+        }
+    ]
+}
