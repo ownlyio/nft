@@ -1,0 +1,19 @@
+{
+    "name": "Mustachio Artifact #9",
+    "description": "Genesis Block Token #9",
+    "image": "https://ownlyio.github.io/nft/genesis-block/api/9/image.png",
+    "attributes": [
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
+        }
+    ]
+}

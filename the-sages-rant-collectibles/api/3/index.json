@@ -1,0 +1,19 @@
+{
+    "name": "Mustachio Artifact #3",
+    "description": "Mustachio Artifact #3",
+    "image": "https://ownlyio.github.io/nft/genesis-block/api/3/image.png",
+    "attributes": [
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "2D"
+        }
+    ]
+}
