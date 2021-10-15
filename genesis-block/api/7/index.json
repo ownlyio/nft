@@ -1,7 +1,7 @@
 {
     "name": "Genesis Block Token #7",
     "description": "Genesis Block Token #7",
-    "image": "https://ownlyio.github.io/nft/genesis-block/api/7/image.jpg",
+    "image": "https://ownlyio.github.io/nft/genesis-block/api/7/image.png",
     "attributes": [
         {
             "trait_type": "Artist",
@@ -21,7 +21,7 @@
         },
         {
             "trait_type": "Asset Type",
-            "value": "2D"
+            "value": "Digital Art"
         }
     ]
 }
