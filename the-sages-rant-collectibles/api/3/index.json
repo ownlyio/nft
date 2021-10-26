@@ -1,8 +1,16 @@
 {
-    "name": "Mustachio Artifact #3",
-    "description": "Mustachio Artifact #3",
+    "name": "The Charmed Comb",
+    "description": "The Charmed Comb is known to all Mustachios as the sailor’s best friend, and can only be found at the Southern Seas. As described in The Sages Rant Book 1 Chapter 4: The Secret of the Southern Seas, this artifact can untangle almost any knots. Those extremely tangled ropes should be no problem. It can also control rope and move it to any direction.",
     "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/3/image.png",
     "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
         {
             "trait_type": "Year",
             "value": "2021"
@@ -13,7 +21,7 @@
         },
         {
             "trait_type": "Asset Type",
-            "value": "2D"
+            "value": "Digital Art"
         }
     ]
 }

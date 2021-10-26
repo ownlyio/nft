@@ -1,0 +1,27 @@
+{
+    "name": "Fellowcro Forest",
+    "description": "Fellowcro Forest is a vast acre forest at the southeast edge of MustachioVerse. As described in The Sages Rant Book 1 Chapter 2: The Blade at Fellowcro, this forest was a favorite hunting ground of the Mustachio royal families. However, this forest is not an ordinary one, it comes with naturally regenerated woods of native tree species where there is no clearly visible evidence of social activity. But once the ecological rule is disturbed, it will create chaos—taking no mercy on humanity, and no forgiveness will be seen, a degradation you cannot forget.",
+    "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/11/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
+        }
+    ]
+}

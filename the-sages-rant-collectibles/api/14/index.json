@@ -1,0 +1,27 @@
+{
+    "name": "Lady Tickler Castle",
+    "description": "As revealed in The Sages Rant Book 1 Chapter 5: Myst of the Ancient Cellar, the Lady Tickler Castle was one of the favorite residences of the old monarchs in MustachioVerse and the castle's design adapts to the hills on which it rises, complimenting on a beautiful keep, the square with four towers, the hall covered with pointed barrel and lavish stained-glass windows. Though the castle's appearance and size reflect the prestige and power of its occupant. This castle lies on the deep stories of terrible situations of slavery and thousands of deaths of hopelessness.",
+    "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/14/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
+        }
+    ]
+}

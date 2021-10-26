@@ -1,0 +1,27 @@
+{
+    "name": "Grass Grin Maze",
+    "description": "Grass Grin Maze evolved from the knot gardens of Southern MustachioVerse and was first constructed during the mid-16th century. As detailed in The Sages Rant Book 1 Chapter 3: Red, White, and Blue, this maze was constructed from evergreen herbs, but, over time, the maze was covered by rare-robust growing Kunai grass. Initially, the maze was not intended to confuse Mustachios, but to provide a walking path. However, a mischievous Mustachio was disowned by his royal family, and he cursed this place—the start of unending obstacles and notorious sightings of apparitions.",
+    "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/12/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
+        }
+    ]
+}

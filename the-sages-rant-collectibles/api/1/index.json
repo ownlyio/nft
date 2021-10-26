@@ -1,8 +1,16 @@
 {
-    "name": "Mustachio Artifact #1",
-    "description": "Mustachio Artifact #1",
+    "name": "The Cutlass",
+    "description": "The Cutlass is an artifact found in the Fellowcro Forest. As described in The Sages Rant Book 1 Chapter 2: The Blade at Fellowcro, it is a thin-sharped shavette that can cut almost anything. If the Mustachio handles this with care, it may cut the wielder.",
     "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/1/image.png",
     "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
         {
             "trait_type": "Year",
             "value": "2021"
@@ -13,7 +21,7 @@
         },
         {
             "trait_type": "Asset Type",
-            "value": "2D"
+            "value": "Digital Art"
         }
     ]
 }

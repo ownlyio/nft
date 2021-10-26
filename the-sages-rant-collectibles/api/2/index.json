@@ -1,8 +1,16 @@
 {
-    "name": "Mustachio Artifact #2",
-    "description": "Mustachio Artifact #2",
+    "name": "The Lamp of Direction",
+    "description": "As detailed in The Sages Rant Book 1 Chapter 3: Red, White, and Blue, The Lamp of Direction is a special barber pole that can basically perform as a compass. This artifact can point the user in the best direction. It may also direct the user to a perilous path. The Mustachios traversed the complex route in order to find this at the Grass Grin Maze.",
     "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/2/image.png",
     "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
         {
             "trait_type": "Year",
             "value": "2021"
@@ -13,7 +21,7 @@
         },
         {
             "trait_type": "Asset Type",
-            "value": "2D"
+            "value": "Digital Art"
         }
     ]
 }

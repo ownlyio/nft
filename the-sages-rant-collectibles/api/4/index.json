@@ -1,8 +1,16 @@
 {
-    "name": "Mustachio Artifact #4",
-    "description": "Genesis Block Token #4",
+    "name": "The Slippy Liquid",
+    "description": "The Slippy Liquid is being used to enter hard-to-reach places. As revealed in The Sages Rant Book 1 Chapter 5: Myst of the Ancient Cellar, Mustachios should apply it to the body to easily slide into crevices. It can be too slippery but could make a mustache look so slick and styled. Mustachios must avoid using this under the sun or in hot environments. Cuz’ they can get fried.",
     "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/4/image.png",
     "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
         {
             "trait_type": "Year",
             "value": "2021"
@@ -13,7 +21,7 @@
         },
         {
             "trait_type": "Asset Type",
-            "value": "2D"
+            "value": "Digital Art"
         }
     ]
 }

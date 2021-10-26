@@ -1,8 +1,16 @@
 {
-    "name": "Mustachio Artifact #7",
-    "description": "Genesis Block Token #7",
+    "name": "Mustachio Artifact No. 7",
+    "description": "The Sages Rant Collectibles is a collection of single-edition, legendary pieces that can be acquired by participating in our auction happening this Q4 of 2021. Holders of these backgrounds and artifacts receive distinct strengths and can boost the rarity of their Mustachios – granting magical abilities and unlimited potentials.",
     "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/7/image.png",
     "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
         {
             "trait_type": "Year",
             "value": "2021"
@@ -13,7 +21,7 @@
         },
         {
             "trait_type": "Asset Type",
-            "value": "2D"
+            "value": "Digital Art"
         }
     ]
 }

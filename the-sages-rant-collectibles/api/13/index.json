@@ -1,0 +1,27 @@
+{
+    "name": "The Southern Seas",
+    "description": "The Southern Seas is a puzzling sea region in the western part of the MustachioVerse where several ships have disappeared under mysterious circumstances. As described in The Sages Rant Book 1 Chapter 4: The Secret of the Southern Seas, this sea area has been visited often by Hurricanes, not just ordinary, but the powerful storms that form in tropical waters and have historically cost thousands of lives and caused severe damage to Mustachios.",
+    "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/13/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
+        }
+    ]
+}

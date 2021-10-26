@@ -1,0 +1,27 @@
+{
+    "name": "Bigode Cave",
+    "description": "Bigode Cave is a cave on the North Island of MustachioVerse. As told in The Sages Rant Book 1 Chapter 1: The Inception, the cave is known for its population of Arachnocampa Luminosa, a glow worm species that gives bright like-fire light in the cave during winter. Inside the cave, you can see a Glowworm Statue with an amazing twinkling glow coming from the ceiling. As you move further into the cave, you can see an embankment full of limestone formations in different shapes and sizes.",
+    "image": "https://ownlyio.github.io/nft/the-sages-rant-collectibles/api/10/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Boii Mustache"
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@BoiiMustache"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Digital Art"
+        }
+    ]
+}
