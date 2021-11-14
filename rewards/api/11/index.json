@@ -1,0 +1,27 @@
+{
+    "name": "Marso's Full-Blown Piece",
+    "description": "Top Collector of The Genesis Block Collection will earn the full-blown piece as the reward.",
+    "image": "https://ownly.io/nft/rewards/api/11/image.jpg",
+    "attributes": [
+        {
+            "trait_type": "Reward Type",
+            "value": "Giveaway"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "2D"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Mythic"
+        }
+    ]
+}
