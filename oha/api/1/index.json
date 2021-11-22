@@ -1,7 +1,7 @@
 {
-    "name": "OHA Token 1",
+    "name": "Free Fall",
     "description": "OHA Token 1 Description",
-    "image": "",
+    "image": "https://ipfs.io/ipfs/QmNsSjsxsXWvpyJbMJgo8nB9SHthHJ8N98oSmGSqAiNbR3",
     "attributes": [
         {
             "trait_type": "Artist",
