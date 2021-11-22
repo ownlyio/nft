@@ -1,0 +1,23 @@
+{
+    "name": "OHA Token 2",
+    "description": "OHA Token 2 Description",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Dan Vincent Barotilla"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Physical Art"
+        }
+    ]
+}

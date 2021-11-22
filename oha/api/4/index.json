@@ -1,0 +1,23 @@
+{
+    "name": "OHA Token 4",
+    "description": "OHA Token 4 Description",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Glenn De Guzman"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Asset Type",
+            "value": "Physical Art"
+        }
+    ]
+}
