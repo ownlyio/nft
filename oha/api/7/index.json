@@ -1,11 +1,19 @@
 {
     "name": "Sleepless",
-    "description": "OHA Token 7 Description",
+    "description": "Overthinking becomes a habit when we are dealing with a lot of uncertainty, we can only wish to shut out our thoughts and get in our mind. Because sometimes the worst place you can be is in your own head.",
     "image": "https://ipfs.io/ipfs/QmRE51wq7HTM4rvuAcYJyJrnjPRRsxq9eZL3w2YG6Pogcc",
     "attributes": [
         {
             "trait_type": "Artist",
-            "value": "Mel Baranda"
+            "value": "Camelo Baranda"
+        },
+        {
+            "trait_type": "Art Type",
+            "value": "Surreal"
+        },
+        {
+            "trait_type": "Canvas Size",
+            "value": "27\" x 33\""
         },
         {
             "trait_type": "Year",

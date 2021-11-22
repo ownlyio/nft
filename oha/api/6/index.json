@@ -1,11 +1,19 @@
 {
     "name": "Leave Me Alone",
-    "description": "OHA Token 6 Description",
+    "description": "If everybody mined their own business, the world would go around a great deal faster than it goes.",
     "image": "https://ipfs.io/ipfs/QmRSZ7YeE9EYmWSBtK2EUrQnaNNkijGreWzoMafn6qS3wA",
     "attributes": [
         {
             "trait_type": "Artist",
             "value": "Glenn De Guzman"
+        },
+        {
+            "trait_type": "Art Type",
+            "value": "Surreal"
+        },
+        {
+            "trait_type": "Canvas Size",
+            "value": "30\" x 40\""
         },
         {
             "trait_type": "Year",

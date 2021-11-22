@@ -1,11 +1,19 @@
 {
     "name": "Live With It",
-    "description": "OHA Token 4 Description",
+    "description": "A desperate situation, a lose-lose choice between surviving and surviving badly, between being alive and raggedly so.",
     "image": "https://ipfs.io/ipfs/QmP8y1jdoE4m7a82DuATAeNrpwGqncJfSwmbafBsmDvHqv",
     "attributes": [
         {
             "trait_type": "Artist",
             "value": "Glenn De Guzman"
+        },
+        {
+            "trait_type": "Art Type",
+            "value": "Surreal"
+        },
+        {
+            "trait_type": "Canvas Size",
+            "value": "24\" x 36\""
         },
         {
             "trait_type": "Year",

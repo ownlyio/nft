@@ -1,11 +1,19 @@
 {
     "name": "Altered Perspective",
-    "description": "OHA Token 3 Description",
+    "description": "What we see on where we stand doesn’t always stay the way it is. Change is constant, so does our perspective. Trying to stay afloat, life drifts us away from a different view we have never seen or been before.",
     "image": "https://ipfs.io/ipfs/Qmf1cvh3goiA4CnuqZ1QhFtBeznKVc9nCkGE1Rxrd4FzPE",
     "attributes": [
         {
             "trait_type": "Artist",
             "value": "Dan Vincent Barotilla"
+        },
+        {
+            "trait_type": "Art Type",
+            "value": "Surreal"
+        },
+        {
+            "trait_type": "Canvas Size",
+            "value": "36\" x 36\""
         },
         {
             "trait_type": "Year",

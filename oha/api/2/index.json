@@ -1,11 +1,19 @@
 {
     "name": "Comfort Zone",
-    "description": "OHA Token 2 Description",
+    "description": "Our thoughts are imprisoned by fear. The four corners of the unknown room serve as the Jail that locks our mind and potential. There are unlimited opportunities outside our comfort zone. All we need to do is find our way out.",
     "image": "https://ipfs.io/ipfs/QmTvWK12bnKhhoVy49Lr3Z6zmKYVB1hLmJD5imLSMoaQPa",
     "attributes": [
         {
             "trait_type": "Artist",
             "value": "Dan Vincent Barotilla"
+        },
+        {
+            "trait_type": "Art Type",
+            "value": "Surreal"
+        },
+        {
+            "trait_type": "Canvas Size",
+            "value": "36\" x 36\""
         },
         {
             "trait_type": "Year",
