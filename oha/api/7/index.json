@@ -4,6 +4,10 @@
     "image": "https://ipfs.io/ipfs/QmRE51wq7HTM4rvuAcYJyJrnjPRRsxq9eZL3w2YG6Pogcc",
     "attributes": [
         {
+            "trait_type": "Series Title",
+            "value": "Exploits and Effects"
+        },
+        {
             "trait_type": "Artist",
             "value": "Camelo Baranda"
         },

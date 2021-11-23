@@ -4,6 +4,10 @@
     "image": "https://ipfs.io/ipfs/QmTvWK12bnKhhoVy49Lr3Z6zmKYVB1hLmJD5imLSMoaQPa",
     "attributes": [
         {
+            "trait_type": "Series Title",
+            "value": "Exploits and Effects"
+        },
+        {
             "trait_type": "Artist",
             "value": "Dan Vincent Barotilla"
         },
