@@ -17,11 +17,43 @@
         },
         {
             "trait_type": "Canvas Size",
-            "value": "36\" x 36\""
+            "value": "36 x 36 in"
         },
         {
-            "trait_type": "Year",
+            "trait_type": "Year Created",
             "value": "2021"
+        },
+        {
+            "trait_type": "Medium",
+            "value": "Canvas"
+        },
+        {
+            "trait_type": "Tools",
+            "value": "Oil, Acrylic"
+        },
+        {
+            "trait_type": "Frame",
+            "value": "No Frame"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black and White"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Plain Grey Paint"
+        },
+        {
+            "trait_type": "Setting",
+            "value": "Outdoor"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Astronaut Suit"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Electric Post"
         },
         {
             "trait_type": "Country",

@@ -17,11 +17,43 @@
         },
         {
             "trait_type": "Canvas Size",
-            "value": "30\" x 40\""
+            "value": "30 x 40"
         },
         {
-            "trait_type": "Year",
-            "value": "2021"
+            "trait_type": "Year Created",
+            "value": "2018"
+        },
+        {
+            "trait_type": "Medium",
+            "value": "Canvas"
+        },
+        {
+            "trait_type": "Tools",
+            "value": "Oil, Acrylic"
+        },
+        {
+            "trait_type": "Frame",
+            "value": "Multicolor"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black and White"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Thick Cloud"
+        },
+        {
+            "trait_type": "Setting",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Crucified"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Wooden Cross"
         },
         {
             "trait_type": "Country",

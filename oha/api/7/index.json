@@ -17,11 +17,43 @@
         },
         {
             "trait_type": "Canvas Size",
-            "value": "27\" x 33\""
+            "value": "27 x 33"
         },
         {
-            "trait_type": "Year",
-            "value": "2021"
+            "trait_type": "Year Created",
+            "value": "2018"
+        },
+        {
+            "trait_type": "Medium",
+            "value": "Canvas"
+        },
+        {
+            "trait_type": "Tools",
+            "value": "Oil, Acrylic"
+        },
+        {
+            "trait_type": "Frame",
+            "value": "No Frame"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Multicolor"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Melted Clock"
+        },
+        {
+            "trait_type": "Setting",
+            "value": "Outerspace"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Puzzled"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Uncertainty"
         },
         {
             "trait_type": "Country",
