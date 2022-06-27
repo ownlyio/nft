@@ -1,0 +1,19 @@
+{
+    "name": "Lil' Scaber",
+    "description": "The only infant who was born on the 2nd day of February 2022 at exactly 2:22 AM. Deemed as the wonder baby who can bring tremendous luck, Scaber was awarded sponsorships from several companies and even offered contracts to be the endorser of their brands. She now weighs a whopping 9 kilos - a big boss baby indeed!",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/8/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

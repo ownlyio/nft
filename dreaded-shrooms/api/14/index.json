@@ -1,0 +1,19 @@
+{
+    "name": "Queen Oyshepsut",
+    "description": "After the Pharaoh's passing, Oyshepsut takes over the kingdom and immediately ended slavery. The nation has been living harmoniously, with her strong leadership and fair judgement - uniting with other countries to help find answers to famine and drought. In her spare time, the Queen enjoys bubble baths, drinking wine, and sunset viewing from her great pyramids.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/14/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

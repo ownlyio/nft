@@ -1,0 +1,19 @@
+{
+    "name": "Portia Bello",
+    "description": "A devoted church person and leader of its choir group. She is a pure soprano who can effortlessly nail the 10th octave. She brings life and fireworks to church activities with her singing prowess, luring church goers from the community and outside to attend services regularly. She definitely loves singing, and also buckets of fried chicken!",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/13/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Shii _ Namiko",
+    "description": "The twins are Japan's national treasure when it comes to mobile gaming. Ranked no. 1 worldwide at the early age of 7, Shii and Hamiko received scholarship programs, endorsement deals, and tons of gadgets from sponsors. They love eating spicy ramen and doing pranks when they need to rest from too much radiation.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/16/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

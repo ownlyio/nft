@@ -1,0 +1,19 @@
+{
+    "name": "Mirri Bolger",
+    "description": "A pro surfer from down south. Thrills himself by surfing with great white sharks and gigantic waves. He dropped out from high school because he hated math, joined competitions and surfed his way to stardom at the age of 15. He currently lives in a luxurious RV bus with his supermodel girlfriend and kunekune dwarf pig pet named ‘Bacon.’",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/10/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

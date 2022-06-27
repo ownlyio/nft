@@ -1,0 +1,19 @@
+{
+    "name": "Yah Mon! The 3 Junjos",
+    "description": "They are Shroomaica's most popular tour guides.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/19/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

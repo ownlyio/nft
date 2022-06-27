@@ -1,0 +1,19 @@
+{
+    "name": "Cogie Meloh",
+    "description": "A football superstar and a legend in the making. He is the youngest player to ever win a Shroom Cup, along with the MVP award. Cogie has multiple endorsements on the side, including a lifetime multi-million dollar deal with Enoki brand. In his free time, he regularly visits the orphanage, a place he once called ‘home,’ plays with the kids and donates tons of stuff and money to the organization. Such an awesome guy!",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/3/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

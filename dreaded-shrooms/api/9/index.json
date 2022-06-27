@@ -1,0 +1,19 @@
+{
+    "name": "Melehune Ahe",
+    "description": "A sweet soft spoken busboy/cook in a local diner in Kauai by day. When night time comes, Melehune is a crowd-darling star when he plays his songs at a bar & grill owned by his good friends. Surely a gentle giant with the voice of an angel! He spends his days off by the beach with a couple of six-packs, ukulele, and boogie board.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/9/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

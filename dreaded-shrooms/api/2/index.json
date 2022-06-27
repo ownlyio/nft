@@ -1,0 +1,19 @@
+{
+    "name": "Chumpy Buttons",
+    "description": "He was once pegged to be the next Master Chef Gordon, minus the grumpy and hyper attitude. His staff loves him given his friendliness and laid-back demeanor - there is ‘no heat’ in the kitchen. Well-known food critics have recognized Buttons as one of the world’s excellent chefs. His favorite food, surprisingly - is gummy bears.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/2/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

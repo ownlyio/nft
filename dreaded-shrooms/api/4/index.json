@@ -1,0 +1,19 @@
+{
+    "name": "Death Cap Shablo",
+    "description": "Shablo is a big-time smuggler of the ‘good s#@!’ - not as bad as one may think because it’s all organic. He doesn’t want to hurt anyone, just get out of his way and it’s all cool. He loves watching football and dreams of owning a team soon. He played the sport too when he was young, but he sucked at it. A big chunk of his earnings goes to his family and the community. Rumba dancing is his main hobby, better yet, his passion.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/4/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

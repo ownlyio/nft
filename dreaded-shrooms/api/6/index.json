@@ -1,0 +1,19 @@
+{
+    "name": "Juancho",
+    "description": "A very friendly guy and a familiar face in the neighborhood. He’s now in his 40s living with his mom. Not completely a BUM since he works part time doing the neighbors lawn and pool once in a while. Juancho loves hanging out with younger friends, often takes out lotsa fast food rather than booze - one of the best decisions he makes everyday. Hip-hop x Latin music is his jam, and would instantly ‘crip walks’ his way to the tunes and dance his heart out.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/6/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

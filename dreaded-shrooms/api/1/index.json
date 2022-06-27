@@ -1,0 +1,19 @@
+{
+    "name": "Britt Jill",
+    "description": "A spiritual seeker, constantly driven to fight for her advocacies - fair price on coffee & bagels, animal rights, and of course - peace. Talking to flowers, birds, and sometimes the wind, makes her feel deeply connected with the universe.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/1/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Sgt. L. Resimuz",
+    "description": "A retired war veteran. A true patriot. He was once a fierce warrior fighting for his beloved country. Since the war ended decades ago, Sargent Resimuz enjoys his retirement and keeps himself busy with his hotdog cart business and karaoke weekends with his fellow vets.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/15/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

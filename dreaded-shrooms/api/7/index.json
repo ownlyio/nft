@@ -1,0 +1,19 @@
+{
+    "name": "Killian Russula",
+    "description": "This captain spends years on board with his crew eagerly searching for promising wonderlands abundant in resources and treasures. His hands are complete by the way, only uses his hook to scratch his back and nose, and most of the time, for getting his laundry off the clothesline.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/7/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Mushley Aria",
+    "description": "This lady is a sensational vlogger, influencer, supermodel, actress, multiple brand ambassador, and a vegan advocate. She gets deeply emotional when someone brings up animal cruelty. She urges her followers and fans to go for organic food, fabric, cosmetics, etc. She has dated a few known celebs, but stayed single for some time now to make time for her yoga sessions and 33 dog pets.",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/11/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

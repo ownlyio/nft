@@ -1,0 +1,19 @@
+{
+    "name": "Smush E Diggz",
+    "description": "A rising star in the music scene. Claims he got his creativity and extraordinary talent in hip-hop music from the mushroom Gods. His music is obviously loved by many though, showcasing his amazing rapping skills, mixing tunes, and other cool elements. And of course, he knows how to party and have  a freakin' great time!",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/17/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Dunyell Truffson",
+    "description": "Multiple championships, MVPs, all-star selections, makes Dunyell the face of the MBA - the world’s most popular and high-level basketball stage. He is projected to become the first billionaire athlete even before hanging up his sneakers. Still a legit bachelor, always hanging out with famous people and rumored to have dated several celebrities all at the same time. What a life!",
+    "image": "https://ownly.io/nft/dreaded-shrooms/api/5/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Panda Noypi"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Facebook Page",
+            "value": "@PandangNoypi"
+        }
+    ]
+}
