@@ -1,7 +1,7 @@
 {
-    "name": "Mandala #1",
+    "name": "Mandala #4",
     "description": "This is the description of my sample NFT.",
-    "image": "https://ownly.io/nft/sample/api/1/image.jpg",
+    "image": "https://ownly.io/nft/sample/api/4/image.jpg",
     "attributes": [
         {
             "trait_type": "Artist",
