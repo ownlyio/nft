@@ -1,0 +1,15 @@
+{
+    "name": "RAMPAGE",
+    "description": "By his actions Obscure killed his wife, enraged by his wife’s death, he went on a rampage and killed every Obscure employee who he thinks is responsible for it.",
+    "image": "https://ownly.io/nft/boy-dibil/api/4/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}

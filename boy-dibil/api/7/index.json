@@ -1,0 +1,15 @@
+{
+    "name": "VIRTUAL BRAWLER",
+    "description": "To release his rage BD joins an underground virtual brawling tournament wherein you can fight remotely but still have the ability to damage your opponent. In his current status, he can easily win fights and win cash.",
+    "image": "https://ownly.io/nft/boy-dibil/api/7/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}

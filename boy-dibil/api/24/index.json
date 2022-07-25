@@ -1,0 +1,15 @@
+{
+    "name": "TRAUMA TEAM",
+    "description": "BD in Trauma team suit, Trauma team is a division of BRIGANDs that specialize in rapid military medical response, while responding to wounded S.A.T they also served as a secondary militia of BRIGAND.",
+    "image": "https://ownly.io/nft/boy-dibil/api/24/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}

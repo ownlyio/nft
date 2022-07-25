@@ -1,0 +1,15 @@
+{
+    "name": "BATHING",
+    "description": "BD just finished bathing after some killing.",
+    "image": "https://ownly.io/nft/boy-dibil/api/14/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}

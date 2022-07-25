@@ -1,0 +1,15 @@
+{
+    "name": "PRE-TRIAL",
+    "description": "Boy Dibil was still a human known as Kcir Johan a biological researcher, he developed a compound that may enhance humans, in several aspects. As the project lead, he solely knows the formula and composition of the said compound. He decided to test the compound and create a pill, which he called 3p (Peak Potential Pill) that enables humans to control aging, cell regeneration, and elevate intellectual ability.",
+    "image": "https://ownly.io/nft/boy-dibil/api/1/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}

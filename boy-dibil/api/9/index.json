@@ -1,0 +1,15 @@
+{
+    "name": "MECHANIC",
+    "description": "BD as a mechanic trying to create his laboratory equipment and set up a home laboratory using remnants of his old machines, and stolen materials from OBSCURE.",
+    "image": "https://ownly.io/nft/boy-dibil/api/9/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}

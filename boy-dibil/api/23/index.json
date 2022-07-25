@@ -1,0 +1,15 @@
+{
+    "name": "BRIGAND S.A.T. 2",
+    "description": "BD in Special Action Team uniform",
+    "image": "https://ownly.io/nft/boy-dibil/api/23/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "DIBIL TECH 2",
+    "description": "Another android version of himself that trains upcoming S.A.T and Trauma Team members. Both techs are controlled by BD through a neural link.",
+    "image": "https://ownly.io/nft/boy-dibil/api/27/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "QUANTUM FLUID CULTIVATOR",
+    "description": "Upon acquiring an amount of HQL BD attempts to reproduce it for his experiment, which he is successful.",
+    "image": "https://ownly.io/nft/boy-dibil/api/11/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}

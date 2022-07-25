@@ -1,0 +1,15 @@
+{
+    "name": "COFFEEHOLIC",
+    "description": "BD is not known to be a coffeeholic but he is. On their way to a mission with his wife, he grabs a coffee in a nearby café.",
+    "image": "https://ownly.io/nft/boy-dibil/api/13/image.png",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Kcir Johan"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2022"
+        }
+    ]
+}
